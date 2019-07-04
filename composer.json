@@ -1,6 +1,6 @@
 {
-    "name": "yii2mod/yii2-ion-slider",
-    "description": "Ion.RangeSlider Widget for Yii 2",
+    "name": "djabiev/yii2-ion-slider-ntv",
+    "description": "Ion.RangeSlider Widget for Yii 2 (forked)",
     "type": "yii2-extension",
     "keywords": [
         "yii2",
